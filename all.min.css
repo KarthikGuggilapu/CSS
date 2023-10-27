@@ -1,6 +1,6 @@
 @import 'colors.css';
 @import 'fonts.css';
-@import 'sizes.css';
+@import url('sizes.css');
 
 :root {
     /* Colors */
@@ -27,12 +27,12 @@
 
 }
 
-.u-input {
+/* .u-input {
     padding: 10px 20px;
     border-radius: 8px;
     outline: none;
     border: none;
     background-color: var(--lightgrey);
     color: var(--black);
-}
+} */
 
