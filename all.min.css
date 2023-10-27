@@ -1,3 +1,7 @@
+@import 'colors.css';
+@import 'fonts.css';
+@import 'sizes.css';
+
 :root {
     /* Colors */
     --blue : blue;
@@ -12,7 +16,7 @@
     --red : red;
     --purple : purple;
     --skyblue : skyblue;
-    
+
 
     /* Fontsize */
     --f1em : 1em;
@@ -23,6 +27,3 @@
 
 }
 
-@import 'colors.css';
-@import 'fonts.css';
-@import 'sizes.css';
