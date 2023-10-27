@@ -27,3 +27,11 @@
 
 }
 
+.u-input {
+    padding: 10px 20px;
+    border-radius: 8px;
+    outline: none;
+    background-color: var(--lightgrey);
+    color: var(--black);
+}
+
